@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: black;
+    opacity: 70%;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px;
+    padding: 14px;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+}
+    
+.navbar >ul >li{
+    display: inline-block;
+    margin-left: 45px;
+    font-size: small;
+    
+}
+
+.img{
+    background-image: url(hero-apple-1.jpg);
+    height: 580px;
+    width: 100%;
+     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    position: absolute;
+    bottom: 0px;
+    left: 430px;
+    font-size: 20px;
+    text-align: center;
+}
+.text h1 {
+    font-size: 4.9rem;
+}
+.text p {
+ font-size: 2rem;
+}
+
+.text.title{
+    position: relative;
+}
+
+/* .text1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    line-height: 50px;
+    font-size:x-large;
+}
+.links1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+ } */
+
+
+
+
+
+
+
+
+

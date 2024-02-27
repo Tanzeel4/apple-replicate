@@ -1,0 +1,427 @@
+* { margin: 0; 
+    padding: 0; 
+    border: border-box; 
+    font-family: Arial;
+    text-decoration: none;
+    }
+
+#navbar{
+  background-color:black; opacity: 80%;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px;
+  padding: 14px;
+  width: 100%;
+  height: 20px;
+  position:top;
+  position: fixed;
+}
+
+#navbar:hover{
+    cursor: pointer;
+}
+div ul li{ display:inline; margin-left:45px; font-size: small;}
+
+.img{
+    height: 580px; ;
+    width: 100%;
+    background-image: url(hero-apple-1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    line-height: 50px;
+    justify-content: center;
+    font-size:x-large;
+ }
+}
+
+ .links1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+ }
+
+ .etext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* section 2 */
+.img2{
+    height: 580px; ;
+    width: 100%;
+    background-image: url(i-phone2.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+}
+.text2{
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Titanium{
+    font-size: 24px;
+    color: white;
+}
+.links2{
+    font-size: 24px;
+}
+.text-title2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: auto;
+    line-height: 50px;
+    justify-content: center;
+    font-size:x-large;
+    padding: 50px;
+    font-size:x-large;
+}
+
+/* section3 */
+
+.img3{
+    height: 580px; 
+    width: 100%;
+    background-image: url(valentine2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+}
+
+.text3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 300px;
+}
+
+.last-chance{
+    font-size: 24px;
+
+}
+
+.links3{
+    font-size: 24px;
+}
+
+
+/* seaction4 */
+
+.parent{
+    height: 580px;
+    width: 100%;
+    display: flex;
+}
+
+.img4{
+    height: 100%;
+    width: 50%;
+    background-image: url(i-phone\ 15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+
+}
+
+.text4{
+    color: white;
+    text-align: center;
+    padding-bottom: 400px;
+}
+
+.prox{
+    font-size: 24px;
+}
+
+.link4{
+    font-size: 24px;
+}
+
+.img4a{
+    height: 100%;
+    width: 50%;
+    background-image: url(phonei0.jfif);
+    background-size: contain;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+
+}
+
+.text4a{
+    color: white;
+    text-align: center;
+    padding-bottom: 400px;
+}
+
+.poo{
+    color: red;
+    font-size: 20px;
+}
+
+.smarter{
+    font-size: 24px;
+}
+
+.link4a{
+    font-size: 24px;
+}
+
+/* seaction5 */
+
+.parent1{
+    height: 700px;
+    width: 100%;
+    display: flex;
+
+}
+
+.img5{
+    height: 100%;
+    width: 50%;
+    background-image: url(iphone\ 5.jfif);
+    background-size: cover;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+
+}
+
+.text5{
+    padding-bottom: 400px;
+}
+
+.proz{
+    font-size: 24px;
+}
+
+.link5{
+    font-size: 24px;
+    text-align: center;
+}
+
+.img5a{
+    height: 100%;
+    width: 50%;
+    background-image: url(iphone\ 3.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+}
+
+.text5a{
+    padding-bottom: 400px;
+}
+
+.in{
+    text-align: center;
+}
+
+.get{
+    font-size: 20px;
+    padding-left: 24px;
+}
+
+.trade{
+    font-size: 20px;
+    padding-left: 24px;
+}
+
+.link5a{
+    font-size: 20px;
+    padding-left: 28px;
+}
+
+/* seaction6 */
+
+.parent2{
+    height: 580px;
+    width: 100%;
+    display: flex;
+}
+
+.img6{
+    height: 580px;
+    width: 50%;
+    background-image: url(airpod.jpg);
+    margin-top: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+
+}
+
+.text6{
+    padding-bottom: 300px;
+}
+
+.Card{
+    text-align: center;
+    color: white;
+}
+
+.proy{
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+.proy1{
+    font-size: 24px;
+    text-align: center;
+}
+
+.link6{
+    font-size: 24px;
+    text-align: center;
+}
+
+.img6a{
+    height: 100%;
+    width: 50%;
+    background-image: url(promo_ipad.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 10px;
+}
+
+.text6a{
+    padding-bottom: 350px;
+}
+
+.pad{
+    text-align: center;
+}
+
+.love{
+    text-align: center;
+    font-size: 24px;
+}
+
+.link6a{
+    font-size: 24px;
+    text-align: center;
+}
+
+.footer{
+    margin-top: 10px;
+    height: 1100px;
+    width: 100%;
+    background-color:whitesmoke;
+}
+
+.popo{
+    margin-top: 20px;
+    padding-left: 250px;
+    padding-right: 215px;
+}
+
+.borderline{
+    background-color:gray;
+    border-top: 0.5px solid gray;
+    width: 1000px;
+    margin-left: 250px;
+    margin: auto;       
+}
+
+.olli{
+    height: 300px;
+    padding-left: 150px;
+    display: flex;
+}
+
+
+ol li{
+    padding-top: 20px;
+    margin-left: 50px;
+    list-style: none;
+    font-size: 0.9rem;
+}
+
+.popo1{
+    margin-top: 300px;
+    padding-left: 200px;
+    font-size: 0.9rem;
+}
+
+.Copyright{
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.9rem;
+}
+
+.Copyright li{
+    list-style: none;
+}
+
+.Copyright:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
